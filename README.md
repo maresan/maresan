@@ -4,11 +4,11 @@ Chilean Civil Software Engineer who has dedicated his professional life as an An
 
 ## Personal Apps on Google Play Store
 ### IncluSeñas
-<a href="https://play.google.com/store/apps/details?id=app.aresan.miguel.inclusenas&pcampaignid=web_share" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/p4KNrt7KibSldCW4PtJqDV3u3aNFI8DoxDjDFfOdGGr_NZ-r-zVT1aRP-YmCZJhZYA=w480-h960" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=app.aresan.miguel.inclusenas&pcampaignid=web_share" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/p4KNrt7KibSldCW4PtJqDV3u3aNFI8DoxDjDFfOdGGr_NZ-r-zVT1aRP-YmCZJhZYA=w480-h960" height="32" width="32" /></a>
 IncluSeñas is a non-profit app that seeks the integration of deaf individuals into society. Currently, it's available in 6 countries.<br>
 
 ### Braille Translator
-<a href="https://play.google.com/store/apps/details?id=aresan.app.brailleapp&pcampaignid=web_share" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/uXOcHomRwFADi6d_6mJBNzbjErijLnrXu0bv0ydiM_3fER5E7YnkWOMHtAwLSwHjzJqE=w480-h960" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=aresan.app.brailleapp&pcampaignid=web_share" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/uXOcHomRwFADi6d_6mJBNzbjErijLnrXu0bv0ydiM_3fER5E7YnkWOMHtAwLSwHjzJqE=w480-h960" height="32" width="32" /></a>
 Braille App is an app to send messages in Braille language to your friends, family and others contacts by social media, email, etc.
 
 ## Hackerrank
